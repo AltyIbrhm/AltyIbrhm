@@ -40,11 +40,11 @@ I'm an accomplished Software Developer with over 9 years of specialized experien
 - Agile Methodologies
 
 ## 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/ibrahim-altay)
-- Email: example@example.com (replace with your actual email if you'd like)
+- [LinkedIn](https://www.linkedin.com/in/ibrahim-a-321905254/)
+- Email: ibrhm.altay.12@gmail.com (replace with your actual email if you'd like)
 
 ## 😄 Pronouns:
-He/Him
+He
 
 ## ⚡ Fun fact:
 I'm always on the lookout for new ways to optimize workflows and improve efficiency, both in software and everyday tasks!
