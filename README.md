@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 I'm an accomplished Software Developer with over 9 years of specialized experience in quality assurance and test automation. My expertise includes tools and technologies such as Cypress, JavaScript, Java, Selenium, Cucumber, SQL, AWS, Azure DevOps, Git, POSTMAN, and C#. I have a proven track record in designing, executing, and automating test cases to ensure software quality and operational excellence.
 
-## 🔭 I’m currently working on
-**Decisions Automation Project**
-- Utilizing JavaScript, SQL, and APIs to develop automated workflows tailored for healthcare companies.
-- Enhancing package delivery processes by managing tasks such as secure communication and intuitive user interface design.
+## 🔭 I’m currently working on: Decisions Automation Project
+
+Developing automated workflows for healthcare companies using JavaScript, SQL, and APIs, streamlining package delivery processes.
+Creating secure communication systems and intuitive user interfaces to enhance operational efficiency and improve user interactions.
 
 ## 🌱 I’m currently learning
 - Full Stack Development at 4Geeks Academy (August 2024 - February 2025)
