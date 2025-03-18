@@ -22,10 +22,6 @@ I'm an accomplished Software Developer with over 9 years of specialized experien
 Developing automated workflows for healthcare companies using JavaScript, SQL, and APIs, streamlining package delivery processes.
 Creating secure communication systems and intuitive user interfaces to enhance operational efficiency and improve user interactions.
 
-## 🌱 I’m currently learning
-- Full Stack Development at 4Geeks Academy (August 2024 - February 2025)
-- Deepening my skills in React, Bootstrap, and Python.
-
 ## 👯 I’m looking to collaborate on
 - Projects involving automation testing, software development, or web technologies.
 - Open-source initiatives that focus on improving software quality and efficiency.
