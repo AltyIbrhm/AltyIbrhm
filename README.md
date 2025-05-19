@@ -1,8 +1,8 @@
 <!-- README.md for AltyIbrhm -->
 
-<h1 align="center">Yo, I'm İbrahim 👋</h1>
+<h1 align="center">Yo, I’m İbrahim 👋</h1>
 <p align="center">
-  I write tests. I break things. I fix things. Then I automate them so I don’t have to do it again.
+  Full-stack dev ⚙️ | Test automation addict 🧪 | Building an AI trading bot that might fire me 🤖
 </p>
 
 <p align="center">
@@ -17,19 +17,20 @@
 
 ---
 
-## 💡 What I’m doing
+## 🧠 What I’m into right now
 
-- Building weirdly satisfying automations with **Cypress** & **Playwright**
-- Breaking UIs and APIs for a living — and loving it
-- Hacking on side projects with **React**, **JavaScript**, **SQL**, and random ideas
-- Running a crypto bot that yells at me when it makes or loses money
+- Building full-stack tools using **React**, **JavaScript**, **SQL**, and custom APIs  
+- Creating **backend systems** and **dashboards** that make ops life easier  
+- Hacking on an **AI trading bot** with PyTorch, LSTM, and confidence-based logic  
+- Testing everything (because future me appreciates it)
 
 ---
 
-## ⚙️ Things I enjoy using
+## ⚙️ Tech I use without Googling
 
 ```txt
-🌐  HTML / CSS / JS / React
 🧪  Cypress / Playwright / Selenium
-☁️  AWS / Azure / GitHub Actions
-🧠  SQL / Postman / REST APIs
+⚛️  React / JavaScript / CSS / HTML
+🔙  Node.js / Express / REST / SQL
+🧠  Python / PyTorch / LSTM / Telegram Bot API
+☁️  AWS / Azure / GitHub Actions / Docker
